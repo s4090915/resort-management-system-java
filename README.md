@@ -22,11 +22,12 @@ A Java Swing desktop application developed as part of Programming A.
 
 ## Project Structure
 
-- Accommodation classes
-- Customer classes
-- Travel Bundle management
-- ResortGUI interface
-- Data persistence system
+- ResortGUI.java - Main graphical interface
+- MtBullerResort.java - Core business logic
+- TravelBundle.java - Travel package management
+- LodgeRoom.java - Accommodation management
+- Lesson.java - Lesson booking management
+- LiftPass.java - Lift pass management
 
 ## What I Learned
 
@@ -35,6 +36,23 @@ A Java Swing desktop application developed as part of Programming A.
 - Object-oriented design principles
 - Data storage using serialization
 - Managing collections with ArrayLists
+
+## Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Customers
+![Customers](screenshots/customers.png)
+
+### Travel Bundles
+![Bundles](screenshots/bundles.png)
+
+## Running the Project
+
+1. Clone the repository
+2. Open in VS Code or IntelliJ
+3. Run Main.java
 
 ## Author
 
