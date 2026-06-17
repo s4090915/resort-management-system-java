@@ -3,6 +3,12 @@
 
 A Java Swing desktop application developed as part of Programming A.
 
+## Overview
+
+The Resort Management System is a Java Swing desktop application that allows users to manage customers, accommodations, lessons, lift passes, and travel bundles for a ski resort.
+
+The project was developed using object-oriented programming principles and includes data persistence through serialization.
+
 ## Features
 
 - Customer management
